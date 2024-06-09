@@ -59,7 +59,7 @@ if ($_GET['username']!=='helvetian') die();
     <h1>LetMeStyle Results for helvetian</h1>
 </header>
 <div class="description">
-    <p>For 09 June, 14:00 you have such results:</p>
+    <p>For 09 June, 12:55 you have such results:</p>
 </div>
 <table>
     <thead>
